@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **everything**
 
-- 👨‍💻 All of my projects are available at [github](github)
+- 👨‍💻 All of my projects are available at [st0bb3n](st0bb3n)
 
 - 📝 I regularly write articles on [facebook dot com](facebook dot com)
 

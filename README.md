@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steve Esguerra</h1>
-<h3 align="center">A noob programmer from Philippines</h3>
+<h3 align="center">A noob programmer</h3>
 
 - 🔭 I’m currently working on **nothing**
 
